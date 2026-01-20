@@ -14,6 +14,15 @@ Currently exploring new things to take my projects to the next level 🚀.
 - **Concepts** RESTful APIs, OOPs 
 
 ---
+## 📌 Featured Projects
+
+✨ *My best work pinned here for quick access:*
+
+- 🔗 **[Commerical Space Finder](https://github.com/pragatikamble12/commerical_Space_finder_system)**  
+  Full-stack web application built using **Spring Boot** and **React** that helps customers find nearby shops and allows shop owners to add and manage their shop details.
+
+- 🔗 **[Bogging-app](https://github.com/pragatikamble12/blogging-app)**  
+  Full-stack web application built using **Spring Boot** and **React** that helps customers find nearby shops and allows shop owners to add and manage their shop details.
 
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/pragati-kamble-543b392b7)  
